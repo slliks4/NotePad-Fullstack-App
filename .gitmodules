@@ -1,0 +1,6 @@
+[submodule "NotePad-Server-Django"]
+	path = NotePad-Server-Django
+	url = https://github.com/slliks4/NotePad-server-django.git
+[submodule "NotePad-Frontend"]
+	path = NotePad-Frontend
+	url = https://github.com/slliks4/NotePad-javascript.git
